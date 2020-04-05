@@ -1,6 +1,6 @@
 {
   "name": "hexo-renderer-njks",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Yet another Nunjucks renderer for Hexo.",
   "main": "index.js",
   "scripts": {
@@ -8,18 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/theme-next/hexo-renderer-njks.git"
+    "url": "git+https://github.com/hexo-next/hexo-renderer-njks.git"
   },
   "keywords": [
     "Hexo",
     "NexT"
   ],
-  "author": "NexT <support@theme-next.org> (https://theme-next.org)",
+  "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/theme-next/hexo-renderer-njks/issues"
+    "url": "https://github.com/hexo-next/hexo-renderer-njks/issues"
   },
-  "homepage": "https://github.com/theme-next/hexo-renderer-njks#readme",
+  "homepage": "https://github.com/hexo-next/hexo-renderer-njks#readme",
   "devDependencies": {
     "eslint": "^6.6.0",
     "eslint-config-theme-next": "^1.1.3"
