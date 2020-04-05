@@ -22,6 +22,9 @@
   "homepage": "https://github.com/hexo-next/hexo-renderer-njks#readme",
   "devDependencies": {
     "eslint": "^6.6.0",
-    "eslint-config-theme-next": "^1.1.3"
+    "eslint-config-hexo": "^4.1.0"
+  },
+  "dependencies": {
+    "nunjucks": "^3.2.1"
   }
 }
