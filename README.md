@@ -22,7 +22,7 @@ Released under the MIT License
 [npm-image]: https://img.shields.io/npm/v/hexo-renderer-njks?style=flat-square
 [lic-image]: https://img.shields.io/npm/l/hexo-renderer-njks?style=flat-square
 
-[size-image]: https://img.shields.io/github/languages/code-size/hexo-next/hexo-renderer-njks?style=flat-square
+[size-image]: https://img.shields.io/github/languages/code-size/next-theme/hexo-renderer-njks?style=flat-square
 [dm-image]: https://img.shields.io/npm/dm/hexo-renderer-njks?style=flat-square
 [dt-image]: https://img.shields.io/npm/dt/hexo-renderer-njks?style=flat-square
 
